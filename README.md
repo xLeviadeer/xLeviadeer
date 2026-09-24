@@ -1,16 +1,25 @@
-## Hi there 👋
+## About Me
+Hello, I'm Leviah. I develop in-depth comprehensive solutions to problems such as Python Packages, Software Ecosystems, and general tools. I'm currently employed in OIT in Michigan and I'm currently looking for a new position. I'm happy to work remote or hybrid positions and am open to relocation somewhere warmer. 
 
-<!--
-**xLeviadeer/xLeviadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+Bachelor of Computer Science expected graduation Fall 2026
 
-Here are some ideas to get you started:
+### Skills & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,css,dotnet,github,go,java,ts,js,nodejs,npm,py,qt,regex," />
+  </a>
+</p>
+<p align="left">
+  <a>
+    <img src="https://skillicons.dev/icons?i=discord,bots,figma,gmail,obsidian,linkedin,svg,unity,visualstudio,vscode,windows," />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+### xQWERTILE
+### xLPyBasics
+### MCLCE Texture Converter
+### MC:BSR-S2 Calculator
+
+## Contact
